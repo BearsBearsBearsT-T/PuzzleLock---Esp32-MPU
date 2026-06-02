@@ -27,6 +27,9 @@ I messed up the roughting for the LEDs so I edited it a bit but I think I'll re-
 
 I also needed to double check the order of the MPU pins (I am soldering on an external module into holes on my PCB) I want the module to lay on the bored and not hang off of it so I needed to make sure that when I soldered it on it would be in the right configureation. If I mess it up I'll just solder it on the back but I'd rather it be on the front.
 
-I am now ready to move onto the scamatic editor :)
+<img width="677" height="465" alt="image" src="https://github.com/user-attachments/assets/7614717d-417c-44b4-88a7-361f998e3c4c" />
+(Isn't it so pretty :)
+
+I am now ready to move onto the PCB editor :)
 
 *Time spent: 30-45min*
