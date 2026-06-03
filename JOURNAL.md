@@ -48,4 +48,6 @@ Footprints:
 
 <img width="788.5" height="450.5" alt="Screenshot 2026-06-03 071107" src="https://github.com/user-attachments/assets/810725de-7981-4c6c-9265-3b13bc0d2244" />
 
+I have decided that my PCB will be a hexagon shape but I need to order the ESP32-S3 first before I place the componants on the PCB. I will have to wait for ESP32 to arrive :(
+
 *Time Spent: 1hr*
