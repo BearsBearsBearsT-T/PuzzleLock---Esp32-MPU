@@ -33,3 +33,19 @@ I also needed to double check the order of the MPU pins (I am soldering on an ex
 I am now ready to move onto the PCB editor :)
 
 *Time spent: 30-45min*
+
+**6/3**
+
+I assingned all my parts footprints and realized that it would be much better for this project if I used an ESP32-S3 bored and not the chip that I was useing. I took out the chip and added 2 pin socket headders so i could plug in my esp32. 
+
+I had to do alot of rescerch on the diffrent parts/footrpints (I am still learning) but I am relatively confident that they are the best fit for the project. 
+
+Updated Scamatic: 
+
+<img width="683" height="463" alt="Screenshot 2026-06-03 071840" src="https://github.com/user-attachments/assets/8c6f0ae2-1316-4c42-a05b-a6010f173ba8" />
+
+Footprints:
+
+<img width="788.5" height="450.5" alt="Screenshot 2026-06-03 071107" src="https://github.com/user-attachments/assets/810725de-7981-4c6c-9265-3b13bc0d2244" />
+
+*Time Spent: 1hr*
